@@ -1,4 +1,5 @@
 {
 	"name" : "Boost",
-	"NbBoost" : 100
+	"NbBoost" : 100,
+	"TypeBoost" : ["AlphaBoost", "Standard", "Ionic", "Bubble", "Burnout", "Tunder", "Plots"]
 }
