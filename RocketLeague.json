@@ -1,5 +1,12 @@
 {
+   "Items" : [{
 	"name" : "Boost",
 	"NbBoost" : 100,
-	"TypeBoost" : ["AlphaBoost", "Standard", "Ionic", "Bubble", "Burnout", "Tunder", "Plots"]
+	"BoostTypes" : ["AlphaBoost", "Standard", "Ionic", "Bubble", "Burnout", "Tunder", "Plots"]
+  },
+  {
+  	"name" : "voitures",
+  	"CarColors" : 13,
+  	"CarNames" : ["Fennec", "Octane", "Dominus", "Esper", "Skyline"]
+  }]
 }
